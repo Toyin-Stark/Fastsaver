@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Fastsaver</string>
+
+    <string name="intersistal" translatable="false">2088774964675134_2088775158008448</string>
+    <string name="bannerID" translatable="false">ca-app-pub-4814909390362068/5272852107</string>
+    <string name="accessToke" translatable="false">140972349799682|WU_n4-HFLCNsHT0IWWO7injf-Xk</string>
+
+    <string name="story_tab">Stories</string>
+    <string name="home_tab">Home</string>
+    <string name="save_tab">Downloads</string>
+    <string name="fastservice">Fastsaver Service</string>
+    <string name="switch_message">Turn on switch to start FastSaver service</string>
+    <string name="switch_message_on">open Instagram and Copy Share Url of photo or video to start download</string>
+    <string name="open">Open Instagram</string>
+
+    <string name="note_title">Fastsaver is on</string>
+    <string name="note_text">Copy Share Url to instant download</string>
+
+    <string name="error">Download Error </string>
+    <string name="downloadVideo">Downloading Video</string>
+    <string name="downloadPhoto">Downloading Photo</string>
+
+    <string name="content">Instagram photo</string>
+
+    <string name="saveVideo">Download Video</string>
+    <string name="savePhoto">Download Photo</string>
+    <string name="downloadStart">Downloading…</string>
+    <string name="story_download">Download</string>
+
+    <string name="content_image">Downloaded Image</string>
+    <string name="content_video">video button</string>
+    <string name="no_story">No Stories Available</string>
+    <string name="hints">Instagram username </string>
+
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+
+</resources>
